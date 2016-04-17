@@ -1,4 +1,4 @@
-System.register(['angular2/platform/browser', './components/CommandAndControl'], function(exports_1) {
+System.register(['angular2/platform/browser', './components/CommandAndControl/CommandAndControl'], function(exports_1) {
     var browser_1, CommandAndControl_1;
     return {
         setters:[
